@@ -26,11 +26,48 @@ Grading
 
 Your performance in this class will be evaluated on class presentations, participation, and exams. Your grade will be decided using the following weights:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Presentations, Participation, and Attendance | 30% |
-| Two Midterm (take-home) Exams | 40% |
-| Final (take-home) Exam | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Presentations, Participation, and Attendance
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Midterm (take-home) Exams
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final (take-home) Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------

@@ -229,11 +229,11 @@ Scott, Felicity D. "Plastic Man Strikes, Again (and Again)." In _Permanent Chang
 
 Wigley, Mark. "The Plastic Line." In _Permanent Change: Plastics in Architecture and Engineering_. Princeton Architectural Press, 2014. ISBN: 9781616891664.
 
-Lynn, Greg. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"'Good–Bye Tectonics, Hello Composites." In _Permanent Change: Plastics in Architecture and Engineering_. Princeton Architectural Press, 2014. ISBN: 9781616891664.
+Lynn, Greg. "'Good–Bye Tectonics, Hello Composites." In _Permanent Change: Plastics in Architecture and Engineering_. Princeton Architectural Press, 2014. ISBN: 9781616891664.
 
 de Landa, Manuel. Chapters 1 and 3 in _Philosophy and Simulation: The Emergence of Synthetic Reason._ Bloomsbury Academic, 2011. ISBN: 9781441170286. \[Preview with [Google Books](http://books.google.com/books?id=F5wvXkJwFwkC&pg=PA1=onepage)\]
 
-R&Sie(n) with Benoit Durandin et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["I've heard about (c); (a flat, fat, growing urban environment)." (PDF)](http://www.new-territories.com/download/ive%20heard%20about/Cat_Ive_090805%20%281%29.pdf) Musée d'art moderne de la ville de Paris (2005): 6–8 and 93–106.
+R&Sie(n) with Benoit Durandin et al. ["I've heard about (c); (a flat, fat, growing urban environment)." (PDF)](http://www.new-territories.com/download/ive%20heard%20about/Cat_Ive_090805%20%281%29.pdf) Musée d'art moderne de la ville de Paris (2005): 6–8 and 93–106.
 
 Schumacher, Patrick, and Zaha Hadid. "[Arguing for Elegance](http://dx.doi.org/10.1002/ad.394)." _Architectural Design_ 77, no. 1 (2007): 28–37.
 

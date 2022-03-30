@@ -19,7 +19,7 @@ Architectural literature is filled with a surfeit of both metaphorical and liter
 Prerequisites
 -------------
 
-[_4.645 Selected Topics in Architecture: Architecture from 1750 to the Present_](/courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004/)
+[_4.645 Selected Topics in Architecture: Architecture from 1750 to the Present_](/courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004)
 
 Grading
 -------
